@@ -20,8 +20,6 @@
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?logo=kali-linux&logoColor=white)
 <a href="https://ubuntu.com/"><img alt="Ubuntu" title="Ubuntu" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" height="42"></a>
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)
-
-{"icon":{"id":"117472","name":"Serveur Windows","commonName":"server-windows","category":"Network","subcategory":"Network Hardware","platform":"m_rounded","isColor":false,"isExplicit":false,"authorApiCode":"icons8","sourceFormat":"svg"},"id":"117472","svg":null}
 ![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?logo=windows&logoColor=white)
 <a href="https://www.gnu.org/software/bash/">
   <img alt="Bash" title="Bash" src="https://raw.githubusercontent.com/github/explore/master/topics/bash/bash.png" height="42">
