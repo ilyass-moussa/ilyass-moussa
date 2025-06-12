@@ -1,10 +1,8 @@
-![Mon GIF animé](assets/images/mon-gif.gif)
+<p align="center">
+  <img src="assets/images/mon-gif.gif" width="400" />
+</p>
 
 
-<div align="center">
-  <h1>🎓 Étudiant en Cybersécurité | Passionné par l'Offensif & Red Team</h1>
-  <p><em>Touche pas, c’est mon lab personnel. Mais si tu veux apprendre, bienvenue.</em></p>
-</div>
 ---
 
 [![Bannière](https://user-images.githubusercontent.com/79813703/224882534-09d61d4f-f019-45af-819c-918c8a1d3b83.gif)](https://github.com/ilyass-moussa) 
