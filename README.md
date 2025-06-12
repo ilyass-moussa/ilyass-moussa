@@ -26,14 +26,14 @@
 
 ---
 
-## 🚀 Projets Académiques
+## 🚀 Projets Académiques 
 
 ### PortScanner-Python  
 Scanner de ports simple écrit en Python avec gestion des threads et détection du service en écoute.  
 **Technologies :**  
 ![Python](https://img.shields.io/badge/Python-3776AB)   
 ![socket](https://img.shields.io/badge/socket-5C94FB)   
-![threading](https://img.shields.io/badge/threading-4B8F75)   
+![threading](https://img.shields.io/badge/threading-4B8F75) 
 
 ---
 
@@ -41,22 +41,48 @@ Scanner de ports simple écrit en Python avec gestion des threads et détection 
 Outil d’analyse réseau permettant de capturer et afficher des paquets TCP/UDP/DNS en temps réel.  
 **Technologies :**  
 ![Python](https://img.shields.io/badge/Python-3776AB)   
-![Scapy](https://img.shields.io/badge/Scapy-3A8FCD)   
+![Scapy](https://img.shields.io/badge/Scapy-3A8FCD) 
 
 ---
 
-### Nmap-AutoScan   
+### Nmap-AutoScan  
 Script en Bash automatisant les scans Nmap classiques (rapide, complet, vulnérabilités).  
 **Technologies :**  
 ![Bash](https://img.shields.io/badge/Bash-4EAA25)   
 ![Nmap](https://img.shields.io/badge/Nmap-4F5D95) 
 
-## 🔥 Centres d'intérêt
-- Tests d'intrusion réseaux/web
-- Techniques d'évasion
-- Tactiques Red Team
-- Recherche de vulnérabilités
+---
+
+## 🧠 Mon État d'Esprit Offensif
+
+> “Pour bien défendre, il faut savoir attaquer.”  
+> Je m'entraîne chaque jour à penser comme un attaquant, pour mieux comprendre comment se protéger.
 
 ---
 
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ilyass-moussa.ilyass-moussa)](https://github.com/ilyass-moussa)
+## 📊 Statistiques GitHub (en temps réel)
+
+📊 **Activité globale :**  
+![Stats](https://github-readme-stats.vercel.app/api?username=ilyass-moussa&show_icons=true&theme=dracula)
+
+🧮 **Langages utilisés :**  
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyass-moussa&theme=dracula)
+
+---
+
+## 🔥 Centres d'intérêt 
+- Tests d'intrusion réseaux/web  
+- Techniques d'évasion  
+- Tactiques Red Team  
+- Recherche de vulnérabilités  
+
+---
+
+## 🌐 Me suivre / Me contacter
+
+📧 Email : [ilyass.moussa@example.com](mailto:ilyass.moussa@example.com)  
+🤖 Statut : ![Status](https://api.1second.email/status/ilyass.moussa@example.com) 
+
+---
+
+[![Visiteurs](https://visitor-badge.laobi.icu/badge?page_id=ilyass-moussa.ilyass-moussa)](https://github.com/ilyass-moussa)
