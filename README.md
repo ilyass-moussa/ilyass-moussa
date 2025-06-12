@@ -40,7 +40,6 @@
 <a href="https://github.com/features/packages">
   <img alt="GitHub Packages" title="GitHub Packages" src="https://github.com/cheesits456/cheesits456/raw/master/icons/packages.png" height="42">
 </a>
-![wireshark](https://www.wireshark.org/_astro/wireshark-logo-big.CkRjSOaC_2eT4Ah.png)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-FF0000?logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-F47C20?logo=burp-suite&logoColor=white)
