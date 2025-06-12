@@ -1,5 +1,3 @@
-<img src="./kali_hacker_terminal.gif" alt="Hacker animation" width="100%" />
-
 <div align="center">
   <h1>🎓 Étudiant en Cybersécurité | Passionné par l'Offensif & Red Team</h1>
   <p><em>Touche pas, c’est mon lab personnel. Mais si tu veux apprendre, bienvenue.</em></p>
