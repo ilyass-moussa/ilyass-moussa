@@ -11,7 +11,7 @@
 
 ## 🔧 Compétences & Environnements
 
-                      ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+  ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 
 <a href="https://www.archlinux.org/"><img alt="Arch Linux" title="Arch Linux" src="https://github.com/cheesits456/cheesits456/raw/master/icons/arch.png" height="42"></a>
 ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?logo=arch-linux&logoColor=white)
@@ -22,7 +22,7 @@
 
 
 
-                             ![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?logo=windows&logoColor=white)
+  ![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?logo=windows&logoColor=white)
 <a href="https://www.gnu.org/software/bash/"><img alt="Bash" title="Bash" src="https://raw.githubusercontent.com/github/explore/master/topics/bash/bash.png" height="42"></a>
 
 
