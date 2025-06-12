@@ -23,8 +23,8 @@
 Scanner de ports simple écrit en Python avec gestion des threads et détection du service en écoute.  
 **Technologies :**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![Socket](https://img.shields.io/badge/Socket-FFA500?label=socket&color=blue)  
-![Threading](https://img.shields.io/badge/Threading-008CBA?label=threading)
+![socket](https://img.shields.io/badge/socket-4169E1?logo=gnu&logoColor=white)  
+![threading](https://img.shields.io/badge/threading-2E8B57?logo=threads&logoColor=white)
 
 ---
 
