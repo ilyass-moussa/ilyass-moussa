@@ -20,9 +20,7 @@
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?logo=kali-linux&logoColor=white)
 <a href="https://ubuntu.com/"><img alt="Ubuntu" title="Ubuntu" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" height="42"></a>
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)
-
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Ffree%2Fwindows-server.html&psig=AOvVaw0G2IKGCbBi9v0pWfZvQxAB&ust=1749830451979000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIi7zcqg7I0DFQAAAAAdAAAAABAE
-
+![windows server](https://www.rcb-informatique.fr/wp-content/uploads/2024/06/Windows-Serveur-600x380.jpeg)
 ![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?logo=windows&logoColor=white)
 <a href="https://www.gnu.org/software/bash/">
   <img alt="Bash" title="Bash" src="https://raw.githubusercontent.com/github/explore/master/topics/bash/bash.png" height="42">
