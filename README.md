@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">💣 Bienvenue sur mon profil GitHub</h1>
 
-<!--
-**ilyass-moussa/ilyass-moussa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="300px" alt="Hacker Entry" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 Salut, moi c’est ilyass moussa
+
+🎓 Étudiant en cybersécurité  
+💥 Passionné par les CTF, l’analyse de vulnérabilités et la sécurité offensive  
+🛠️ J’apprends tous les jours sur TryHackMe et Hack The Box  
+🎯 Objectif : devenir Pentester 
+
+---
+
+## 🔧 Outils & Compétences
+
+- 🔐 Kali Linux, Burp Suite, Wireshark
+- 🐍 Python, Bash
+- ⚡ Nmap, Metasploit, JohnTheRipper
+
+---
+
+## 📊 Mes Stats GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=radical" />
+</p>
+
+---
+
+🧠 *Dernière mise à jour : juin 2025*
+
