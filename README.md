@@ -77,11 +77,6 @@ Script en Bash automatisant les scans Nmap classiques (rapide, complet, vulnéra
 
 ---
 
-## 🌐 Me suivre / Me contacter
 
-📧 Email : [ilyass.moussa@example.com](mailto:ilyass.moussa@example.com)  
-🤖 Statut : ![Status](https://api.1second.email/status/ilyass.moussa@example.com) 
-
----
 
 [![Visiteurs](https://visitor-badge.laobi.icu/badge?page_id=ilyass-moussa.ilyass-moussa)](https://github.com/ilyass-moussa)
