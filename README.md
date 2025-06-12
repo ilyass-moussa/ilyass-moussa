@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Vidéo sans titre ‐ Réalisée avec Clipchamp.gif" width="400" />
+</p>
 
 
 <div align="center">
