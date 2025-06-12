@@ -1,12 +1,12 @@
 <h1 align="center">💣 Bienvenue sur mon profil GitHub</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="300px" alt="Hacker Entry" />
+  <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="400px" alt="Hacker Terminal" />
 </p>
 
 ---
 
-## 👋 Salut, moi c’est ilyass moussa
+## 👋 Salut, moi c’est ilyass-moussa
 
 🎓 Étudiant en cybersécurité  
 💥 Passionné par les CTF, l’analyse de vulnérabilités et la sécurité offensive  
@@ -26,7 +26,7 @@
 ## 📊 Mes Stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ilyass-moussa&show_icons=true&theme=radical" />
 </p>
 
 ---
