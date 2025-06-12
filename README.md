@@ -26,17 +26,16 @@
 ### PortScanner-Python  
 Scanner de ports simple écrit en Python avec gestion des threads et détection du service en écoute.  
 **Technologies :**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![socket](https://img.shields.io/badge/socket-4169E1?logo=gnu&logoColor=white)  
-![threading](https://img.shields.io/badge/threading-2E8B57)
+![Python](https://img.shields.io/badge/Python-3776AB)   
+![socket](https://img.shields.io/badge/socket-4169E1)   
+![threading](https://img.shields.io/badge/threading-2E8B57) 
 
 ---
-
-### Scapy-Packet-Analyzer   
+### Scapy-Packet-Analyzer  
 Outil d’analyse réseau permettant de capturer et afficher des paquets TCP/UDP/DNS en temps réel.  
 **Technologies :**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![Scapy](https://img.shields.io/badge/Scapy-2C99BA?logo=python&logoColor=white&label=scapy)
+![Python](https://img.shields.io/badge/Python-3776AB)   
+![Scapy](https://img.shields.io/badge/Scapy-2C99BA)
 
 ---
 
