@@ -27,23 +27,23 @@
 Scanner de ports simple écrit en Python avec gestion des threads et détection du service en écoute.  
 **Technologies :**  
 ![Python](https://img.shields.io/badge/Python-3776AB)   
-![socket](https://img.shields.io/badge/socket-4169E1)   
-![threading](https://img.shields.io/badge/threading-2E8B57) 
+![socket](https://img.shields.io/badge/socket-5C94FB)   
+![threading](https://img.shields.io/badge/threading-4B8F75)   
 
 ---
+
 ### Scapy-Packet-Analyzer  
 Outil d’analyse réseau permettant de capturer et afficher des paquets TCP/UDP/DNS en temps réel.  
 **Technologies :**  
 ![Python](https://img.shields.io/badge/Python-3776AB)   
-![Scapy](https://img.shields.io/badge/Scapy-2C99BA)
+![Scapy](https://img.shields.io/badge/Scapy-3A8FCD)   
 
 ---
 
 ### Nmap-AutoScan   
 Script en Bash automatisant les scans Nmap classiques (rapide, complet, vulnérabilités).  
 **Technologies :**  
-![Bash](https://img.shields.io/badge/Bash-121011)  
-![Nmap](https://img.shields.io/badge/Nmap-4F5D95?logo=nmap&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-7D6F
 
 ## 🔥 Centres d'intérêt
 - Tests d'intrusion réseaux/web
