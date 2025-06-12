@@ -19,6 +19,7 @@
 </a>
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?logo=kali-linux&logoColor=white)
 <a href="https://ubuntu.com/"><img alt="Ubuntu" title="Ubuntu" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" height="42"></a>
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)
 <a href="https://www.microsoft.com/en-us/windows-server">
   <img alt="Windows Server" title="Windows Server" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Windows_Server_logo.svg" height="42">
 </a>
