@@ -42,7 +42,7 @@ Outil d’analyse réseau permettant de capturer et afficher des paquets TCP/UDP
 ### Nmap-AutoScan   
 Script en Bash automatisant les scans Nmap classiques (rapide, complet, vulnérabilités).  
 **Technologies :**  
-![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)  
+![Bash](https://img.shields.io/badge/Bash-121011)  
 ![Nmap](https://img.shields.io/badge/Nmap-4F5D95?logo=nmap&logoColor=white)
 
 ## 🔥 Centres d'intérêt
