@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/images/download.gif" width="400" />
-</p>
+
 
 <div align="center">
   <h1>🎓 Étudiant en Cybersécurité | Passionné par l'Offensif & Red Team</h1>
