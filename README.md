@@ -24,9 +24,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
 
-# Étudiant en Cybersécurité | Passionné par l'Offensif & Red Team
-
-[![Bannière](https://user-images.githubusercontent.com/79813703/224882534-09d61d4f-f019-45af-819c-918c8a1d3b83.gif)](https://github.com/ilyass-moussa)
+---
 
 ## 🚀 Projets Académiques
 
