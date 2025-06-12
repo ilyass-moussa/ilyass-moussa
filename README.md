@@ -1,8 +1,9 @@
 <h1 align="center">💣 Bienvenue sur mon profil GitHub</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="400px" alt="Hacker Terminal" />
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="400px" />
 </p>
+
 
 ---
 
