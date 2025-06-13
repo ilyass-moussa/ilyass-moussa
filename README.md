@@ -2,6 +2,9 @@
   <img src="Vidéo sans titre ‐ Réalisée avec Clipchamp.gif" width="400" />
 </p>
 
+<h1 align="center">Salut 👋, je suis Ilyass Moussa</h1>
+<h3 align="center">Développeur passionné par le Web, l'IA et le code propre 🧠💻</h3>
+
 <div align="center">
   <h1>🎓 Étudiant en Cybersécurité | Passionné par l'Offensif & Red Team</h1>
   <p><em>Touche pas, c’est mon lab personnel. Mais si tu veux apprendre, bienvenue.</em></p>
@@ -79,13 +82,6 @@ Script en Bash automatisant les scans Nmap classiques (rapide, complet, vulnéra
 
 ---
 
-## 📊 Statistiques GitHub (en temps réel)
-
-📊 **Activité globale :**  
-![Stats](https://github-readme-stats.vercel.app/api?username=ilyass-moussa&show_icons=true&theme=dracula)
-
-🧮 **Langages utilisés :**  
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyass-moussa&theme=dracula)
 
 ---
 
