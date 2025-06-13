@@ -6,7 +6,7 @@
 
 <div align="center">
   <h1>🎓 Étudiant en Cybersécurité | Passionné par l'Offensif & la Red Team</h1>
-  <p><em>Bienvenue dans mon labo perso — ici, on explore, on apprend, et on défie les systèmes (éthiquement) 🔍💻</em></p>
+  <p><em>Nous avons ouvert nos vies au réseau, et maintenant, le réseau pénètre notre être.</em></p>
 </div>
 
 ---
