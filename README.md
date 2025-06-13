@@ -18,8 +18,6 @@
 
 ## 🔧 Compétences & Environnements
 
-  ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-
 <a href="https://www.archlinux.org/"><img alt="Arch Linux" title="Arch Linux" src="https://github.com/cheesits456/cheesits456/raw/master/icons/arch.png" height="42"></a>
 ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?logo=arch-linux&logoColor=white)
 <a href="https://www.kali.org/"><img alt="Kali Linux" title="Kali Linux" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="42"></a>
