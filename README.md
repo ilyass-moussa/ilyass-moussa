@@ -87,9 +87,8 @@ Script en Bash automatisant les scans Nmap classiques (rapide, complet, vulnéra
 
 ## 🧠 Mon État d'Esprit Offensif
 
-> “Pour bien défendre, il faut savoir attaquer.”  
-> Je m'entraîne chaque jour à penser comme un attaquant, pour mieux comprendre comment se protéger.
-
+> “Dans le cyberespace, ta première faiblesse n’est pas ton mot de passe, mais ta confiance aveugle”  
+> et celui qui pense n’avoir rien à cacher n’a pas encore compris ce qu’on peut lui voler.
 ---
 
 
