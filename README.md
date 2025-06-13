@@ -28,14 +28,10 @@
 
 
 
-
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-FF0000?logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-F47C20?logo=burp-suite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/-Nmap-4F5D95?logo=nmap&logoColor=white)
-
-
-
 <a href="https://www.gnu.org/software/bash/"><img alt="Bash" title="Bash" src="https://raw.githubusercontent.com/github/explore/master/topics/bash/bash.png" height="42"></a>
 ![Bash](https://img.shields.io/badge/-Bash-121011?logo=gnu-bash&logoColor=white)
 <a href="https://www.python.org/"><img alt="Python" title="Python" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" height="42"></a>
