@@ -27,12 +27,16 @@
 
 
 
+
 <a href="https://www.gnu.org/software/bash/"><img alt="Bash" title="Bash" src="https://raw.githubusercontent.com/github/explore/master/topics/bash/bash.png" height="42"></a>
 ![Bash](https://img.shields.io/badge/-Bash-121011?logo=gnu-bash&logoColor=white)
 <a href="https://www.python.org/"><img alt="Python" title="Python" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" height="42"></a>
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 <a href="https://www.mysql.com/"><img alt="SQL" title="SQL" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" height="42"></a>
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
+
+
+
 <a href="https://github.com/"><img alt="GitHub" title="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" height="42"></a>
 <a href="https://github.com/features/packages"><img alt="GitHub Packages" title="GitHub Packages" src="https://github.com/cheesits456/cheesits456/raw/master/icons/packages.png" height="42"></a>
 
