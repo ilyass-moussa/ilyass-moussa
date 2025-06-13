@@ -37,8 +37,6 @@
 
 
 
-
-
 <a href="https://www.gnu.org/software/bash/"><img alt="Bash" title="Bash" src="https://raw.githubusercontent.com/github/explore/master/topics/bash/bash.png" height="42"></a>
 ![Bash](https://img.shields.io/badge/-Bash-121011?logo=gnu-bash&logoColor=white)
 <a href="https://www.python.org/"><img alt="Python" title="Python" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" height="42"></a>
