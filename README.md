@@ -46,7 +46,7 @@
 
 ## 🚀 Projets Académiques 
 
-### PortScanner-Python  
+### 🔎 PortScanner-Python  
 Scanner de ports simple écrit en Python avec gestion des threads et détection du service en écoute.  
 **Technologies :**  
 ![Python](https://img.shields.io/badge/Python-3776AB)   
@@ -56,7 +56,7 @@ Scanner de ports simple écrit en Python avec gestion des threads et détection 
 
 ---
 
-### Scapy-Packet-Analyzer  
+### 📡 Scapy Packet Analyzer
 Outil d’analyse réseau permettant de capturer et afficher des paquets TCP/UDP/DNS en temps réel.  
 **Technologies :**  
 ![Python](https://img.shields.io/badge/Python-3776AB)   
@@ -65,7 +65,7 @@ Outil d’analyse réseau permettant de capturer et afficher des paquets TCP/UDP
 
 ---
 
-### Nmap-AutoScan  
+### 🛡️ Nmap-AutoScan
 Script en Bash automatisant les scans Nmap classiques (rapide, complet, vulnérabilités).  
 **Technologies :**  
 ![Bash](https://img.shields.io/badge/Bash-4EAA25)   
