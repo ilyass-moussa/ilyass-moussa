@@ -11,6 +11,15 @@
 
 ---
 
+<div class="hacker-container" align="center">
+  <h1 class="hacker-text">Salut 👋, je suis Ilyass Moussa</h1>
+  <div class="matrix-border">
+    <p class="hacker-text">🎓 CYBERSÉCURITÉ | SPÉCIALISTE RED TEAM OFFENSIF</p>
+  </div>
+</div>
+
+---
+
 
 ## 🛠️ Arsenal Technique
 
