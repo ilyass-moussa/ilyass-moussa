@@ -8,7 +8,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=30&duration=2000&pause=3000&color=FF0000&center=true&vCenter=true&width=1050&lines=🎓+CYBERSÉCURITÉ+%7C+ÉTUDIANT+ORIENTÉ+OFFENSIF+%26+RED+TEAM" alt="Cybersécurité Red Team" />
 </div>
 
-
+---
+<h1 align="center">👨‍💻 <span style="color: #FF0000;">HACK</span> | <span style="color: #00FF00;">BUILD</span> | <span style="color: #0000FF;">PROTECT</span></h1>
 ---
 
 ## 🛠️ Arsenal Technique
