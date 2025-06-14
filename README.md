@@ -113,7 +113,7 @@ Et celui qui pense n’avoir rien à cacher n’a pas encore compris ce qu’on 
 <div align="center">
 
 █▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█  
-█░░▒▓▒   <h2 style="font-size: 10px; font-weight:700;">Projets</h2>▒▓▒░░█  
+█░░▒▓▒   <h2 style="font-size: 5px; font-weight:1000;">Projets</h2>▒▓▒░░█  
 █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
 
 
