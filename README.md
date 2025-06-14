@@ -11,9 +11,8 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Hack&size=24&duration=2500&pause=1500&color=00FF88&background=000000&center=true&vCenter=true&width=900&lines=🎓+ÉTUDIANT+EN+CYBERSÉCURITÉ+%7C+SPÉCIALISATION+OFFENSIVE+%26+RED+TEAM" alt="Titre cyber">
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=20&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=800&lines=🎓+ÉTUDIANT+EN+CYBERSÉCURITÉ+%7C+SPÉCIALISATION+OFFENSIVE+%26+RED+TEAM" alt="Titre">
 </p>
-
 
 ---
 
