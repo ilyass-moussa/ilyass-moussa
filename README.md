@@ -50,6 +50,7 @@
 ![GitHub Packages](https://img.shields.io/badge/-GitHub_Packages-24292E?logo=github&logoColor=white)
 
 
+
 ---
 
 ## 🚀 Projets Académiques 
@@ -63,6 +64,7 @@ Scanner de ports simple écrit en Python avec gestion des threads et détection 
 
 🔗 [Voir le projet](https://github.com/ilyass-moussa/PortScanner-Python)
 
+
 ---
 
 ### 📡 Scapy Packet Analyzer
@@ -72,6 +74,7 @@ Outil d’analyse réseau permettant de capturer et afficher des paquets TCP/UDP
 ![Scapy](https://img.shields.io/badge/Scapy-3A8FCD) 
 
 🔗 [Voir le projet](https://github.com/ilyass-moussa/Scapy-Packet-Analyzer)
+
 
 ---
 
@@ -89,15 +92,17 @@ Script en Bash automatisant les scans Nmap classiques (rapide, complet, vulnéra
 
 > “Dans le cyberespace, ta première faiblesse n’est pas ton mot de passe, mais ta confiance aveugle. 
 Et celui qui pense n’avoir rien à cacher n’a pas encore compris ce qu’on peut lui voler.
----
 
 
 ---
 
-## 🔥 Centres d'intérêt 
-- Tests d’intrusion réseau/web  
-- Techniques d'évasion  
-- Tactiques Red Team  
-- Recherche de vulnérabilités  
+
+---
+
+## 🔥 Centres d'intérêt  
+- Tests d’intrusion réseaux et applications web  
+- Techniques d’évasion et contournement  
+- Tactiques et stratégies Red Team  
+- Recherche et analyse de vulnérabilités  
 
 ---
