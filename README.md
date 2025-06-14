@@ -10,11 +10,7 @@
 
 ---
 
-<div align="center">
-  <a href="https://github.com/ilyass-moussa">
-    <img src="https://github.com/ilyass-moussa/ilyass-moussa/blob/main/terminal.gif?raw=true" alt="Terminal hacker animé" width="600"/>
-  </a>
-</div>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhyN2V6YzFmOGV5dGJtY3BzZ2M2eWplMXB2Z2J6dHlqZ2NtY3B6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abKhK8ErT3k5D4c/giphy.gif" width="600"/>
 
 ---
 
