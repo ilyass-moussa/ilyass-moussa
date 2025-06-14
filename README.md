@@ -9,7 +9,9 @@
 </div>
 
 ---
-<h1 align="center">👨‍💻 <span style="color: #FF0000;">HACK</span> | <span style="color: #00FF00;">BUILD</span> | <span style="color: #0000FF;">PROTECT</span></h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=24&duration=4000&color=00FF00&center=true&vCenter=true&width=600&lines=Red+Team+Operator+%7C+Penetration+Tester;Security+Researcher+%7C+CTF+Player;Python+Developer+%7C+Script+Kiddie+%F0%9F%98%88" alt="Typing SVG" />
+</div>
 ---
 
 ## 🛠️ Arsenal Technique
