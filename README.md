@@ -37,6 +37,12 @@
   <a href="https://docs.microsoft.com/powershell/" target="_blank"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/></a>
 </div>
 
+### ☁️ Plateformes
+<p>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub_Packages-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Packages"/>
+</p>
+
 ---
 
 ## 💥 Projets Phares
