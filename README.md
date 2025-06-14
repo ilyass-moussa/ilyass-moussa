@@ -8,7 +8,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=30&duration=2000&pause=3000&color=FF0000&center=true&vCenter=true&width=1050&lines=🎓+CYBERSÉCURITÉ+%7C+ÉTUDIANT+ORIENTÉ+OFFENSIF+%26+RED+TEAM" alt="Cybersécurité Red Team" />
 </div>
 
-
+<div align="center">
+  <a href="https://github.com/ilyass-moussa">
+    <img src="https://github.com/ilyass-moussa/ilyass-moussa/blob/main/terminal.gif?raw=true" alt="Terminal hacker animé" width="600"/>
+  </a>
+</div>
 
 ---
 
