@@ -22,59 +22,13 @@
 
 ---
 
-<div align="center" style="position:relative;overflow:hidden;background:#000;padding:30px;border-radius:10px">
-  <!-- Fond Matrix animé -->
-  <canvas id="matrix" style="position:absolute;top:0;left:0;z-index:0;opacity:0.15"></canvas>
+<div align="center">
   
-  <!-- Texte au premier plan -->
-  <div style="position:relative;z-index:1">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Salut+👋,+je+suis+Ilyass+Moussa;────────────;🎓+CYBERSÉCURITÉ+%7C+SPÉCIALISTE+RED+TEAM+OFFENSIF" alt="Matrix Presentation" />
-  </div>
+  ![Matrix](https://raw.githubusercontent.com/yourusername/yourusername/main/matrix.gif)
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=900&lines=Salut+👋,+Je+suis+Ilyass+Moussa;───────;💻+Expert+en+Cybersécurité+Offensive;🔴+Red+Team+%7C+Pentest+%7C+OSINT" alt="Présentation Matrix" />
+  
 </div>
-
-<script>
-  // Script pour l'effet Matrix
-  const canvas = document.getElementById('matrix');
-  const ctx = canvas.getContext('2d');
-  
-  canvas.width = canvas.parentElement.offsetWidth;
-  canvas.height = canvas.parentElement.offsetHeight;
-  
-  const katakana = 'アァカサタナハマヤャラワガザダバパイィキシチニヒミリヰギジヂビピウゥクスツヌフムユュルグズブヅプエェケセテネヘメレヱゲゼデベペオォコソトノホモヨョロヲゴゾドボポヴッン';
-  const latin = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
-  const nums = '0123456789';
-  const symbols = '!"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~';
-  
-  const alphabet = katakana + latin + nums + symbols;
-  const fontSize = 16;
-  const columns = canvas.width/fontSize;
-  const drops = [];
-  
-  for(let i = 0; i < columns; i++) {
-    drops[i] = 1;
-  }
-  
-  function draw() {
-    ctx.fillStyle = 'rgba(0, 0, 0, 0.05)';
-    ctx.fillRect(0, 0, canvas.width, canvas.height);
-    
-    ctx.fillStyle = '#0F0';
-    ctx.font = fontSize + 'px monospace';
-    
-    for(let i = 0; i < drops.length; i++) {
-      const text = alphabet.charAt(Math.floor(Math.random() * alphabet.length));
-      ctx.fillText(text, i*fontSize, drops[i]*fontSize);
-      
-      if(drops[i]*fontSize > canvas.height && Math.random() > 0.975) {
-        drops[i] = 0;
-      }
-      drops[i]++;
-    }
-  }
-  
-  setInterval(draw, 33);
-</script>
-
 
 
 
