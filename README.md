@@ -46,37 +46,58 @@
 
 ---
 
+<div align="center" style="background:#000000;border:3px solid #00FF00;padding:20px;border-radius:5px;font-family:'Courier New'">
 
-<div align="center" style="background:#000;border:2px solid #00FF00;border-radius:10px;padding:20px;font-family:'Courier New',monospace;color:#00FF00">
+```diff
+  _____                 _     
+ |  __ \               | |    
+ | |__) |_ _ _ __   ___| |__  
+ |  ___/ _` | '_ \ / __| '_ \ 
+ | |  | (_| | | | | (__| | | |
+ |_|   \__,_|_| |_|\___|_| |_|
 
-╔══════════════════════════════════════════════╗
-║  █▀▀ █░█ █▀▀ █▀▀ ▀█▀   █▀█ █▀▀ █▀▀ █▄░█      ║
-║  █▄▄ █▀█ ██▄ █▄▄ ░█░   █▀▄ ██▄ ██▄ █░▀█      ║
-╚══════════════════════════════════════════════╝
+<div align="center" style="font-family:'Courier New';color:#00FF00">
 
-▄▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▄
-█  🐍 Python        █
-█  🕸️ Web          █
-█  🔍 Networking    █
-▀▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▀
-
-| Projet        | Description          | Badges                          |
-|---------------|----------------------|---------------------------------|
-| PortScanner   | Premier pas en réseau| ![Level](https://img.shields.io/badge/Level-Beginner-green) |
-| PacketSniffer | Découverte de Scapy  | ![Status](https://img.shields.io/badge/Status-Learning-yellow) |
-| AutoNmap      | Scripts bash         | ![Shell](https://img.shields.io/badge/Shell-Fun-orange) |
-
-+-+-+-+-+-+-+-+
-|H|a|c|k|T|h|e|
-+-+-+-+-+-+-+-+
-      |
-   +-+-+-+-+
-   |B|o|x|!|
-   +-+-+-+-+
-
-> "Je ne crains pas les erreurs, je crains de ne rien apprendre.
-> Chaque segfault est une leçon, chaque bug une opportunité."
-
-![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=00FF00&background=00000000&width=600&lines=🚀+Prochain+objectif:+OSCP;🔓+En+apprentissage:+Pentest+Web+|+Réseaux+|+Systèmes)
-
+```diff
+# 🚀 PROJETS ACADÉMIQUES - CYBERSÉCURITÉ
 </div>
+🔎 PortScanner-Python
+https://img.shields.io/badge/%25F0%259F%2593%25A1_PortScanner-Python_Project-3776AB?style=for-the-badge&logo=python
+Scanner de ports simple avec gestion des threads
+
+Technologies :
+https://img.shields.io/badge/Python-3776AB?logo=python
+https://img.shields.io/badge/socket-5C94FB
+https://img.shields.io/badge/threading-4B8F75
+
+📡 Scapy Packet Analyzer
+https://img.shields.io/badge/%25F0%259F%2593%25A1_PacketSniffer-Scapy_Project-3A8FCD?style=for-the-badge
+Outil d'analyse réseau temps réel
+
+Technologies :
+https://img.shields.io/badge/Python-3776AB?logo=python
+https://img.shields.io/badge/Scapy-3A8FCD
+
+🛡️ Nmap-AutoScan
+https://img.shields.io/badge/%25F0%259F%2594%258D_AutoNmap-Bash_Script-4EAA25?style=for-the-badge&logo=gnu-bash
+Automation de scans Nmap
+
+Technologies :
+https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash
+https://img.shields.io/badge/Nmap-4F5D95
+
+<div align="center" style="margin-top:30px">
+
+
+
+while not expert:
+    practice()
+    learn_from_mistakes()
+    ask_questions()
+
+
+💬 Ma Philosophie
+"Je suis fier d'être débutant - chaque expert a commencé par là.
+Mes projets sont simples mais j'y mets toute ma passion."
+
+</div> ```
