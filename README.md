@@ -56,37 +56,6 @@
  | |  | (_| | | | | (__| | | |
  |_|   \__,_|_| |_|\___|_| |_|
 
-<div align="center" style="font-family:'Courier New';color:#00FF00">
-
-```diff
-# 🚀 PROJETS ACADÉMIQUES - CYBERSÉCURITÉ
-</div>
-🔎 PortScanner-Python
-https://img.shields.io/badge/%25F0%259F%2593%25A1_PortScanner-Python_Project-3776AB?style=for-the-badge&logo=python
-Scanner de ports simple avec gestion des threads
-
-Technologies :
-https://img.shields.io/badge/Python-3776AB?logo=python
-https://img.shields.io/badge/socket-5C94FB
-https://img.shields.io/badge/threading-4B8F75
-
-📡 Scapy Packet Analyzer
-https://img.shields.io/badge/%25F0%259F%2593%25A1_PacketSniffer-Scapy_Project-3A8FCD?style=for-the-badge
-Outil d'analyse réseau temps réel
-
-Technologies :
-https://img.shields.io/badge/Python-3776AB?logo=python
-https://img.shields.io/badge/Scapy-3A8FCD
-
-🛡️ Nmap-AutoScan
-https://img.shields.io/badge/%25F0%259F%2594%258D_AutoNmap-Bash_Script-4EAA25?style=for-the-badge&logo=gnu-bash
-Automation de scans Nmap
-
-Technologies :
-https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash
-https://img.shields.io/badge/Nmap-4F5D95
-
-<div align="center" style="margin-top:30px">
 
 
 
