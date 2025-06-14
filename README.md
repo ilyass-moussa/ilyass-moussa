@@ -111,9 +111,10 @@ Et celui qui pense n’avoir rien à cacher n’a pas encore compris ce qu’on 
 ---
 
 <div align="center">
-█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█  
-█░░▒▓▒  PROJETS  ▒▓▒░░█  
-█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█  
+ █▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█  
+█░░▒▓▒ PROJETS ▒▓▒░░█  
+█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
+
 
 
 
