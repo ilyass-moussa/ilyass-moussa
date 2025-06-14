@@ -6,7 +6,7 @@
 
 <div align="center">
   <h1>🎓 Étudiant en Cybersécurité | Passionné par l'Offensif & la Red Team</h1>
-  <p><em>Nous avons ouvert nos vies au réseau, et maintenant, le réseau pénètre notre être.</em></p>
+  <p><em>Parle peu. Frappe fort. Touche juste — au clavier, évidemment.</em></p>
 </div>
 
 ---
@@ -87,8 +87,8 @@ Script en Bash automatisant les scans Nmap classiques (rapide, complet, vulnéra
 
 ## 🧠 Mon État d'Esprit Offensif
 
-> “Dans le cyberespace, ta première faiblesse n’est pas ton mot de passe, mais ta confiance aveugle, 
->et celui qui pense n’avoir rien à cacher n’a pas encore compris ce qu’on peut lui voler.
+> “Dans le cyberespace, ta première faiblesse n’est pas ton mot de passe, mais ta confiance aveugle. 
+Et celui qui pense n’avoir rien à cacher n’a pas encore compris ce qu’on peut lui voler.
 ---
 
 
