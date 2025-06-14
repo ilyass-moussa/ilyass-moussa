@@ -14,14 +14,6 @@
 [![Bannière](https://user-images.githubusercontent.com/79813703/224882534-09d61d4f-f019-45af-819c-918c8a1d3b83.gif)](https://github.com/ilyass-moussa) 
 
 ---
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="300">
-        <img src="R8SE.gif" width="300"  
-
-
 ## 🔧 Compétences & Environnements
 
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
@@ -47,6 +39,7 @@
 ![Metasploit](https://img.shields.io/badge/-Metasploit-FF0000?logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-F47C20?logo=burp-suite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/-Nmap-4F5D95?logo=nmap&logoColor=white)
+
 
 ---
 
