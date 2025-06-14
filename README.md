@@ -24,6 +24,9 @@
 
 ## 🛠️ Arsenal Technique
 
+
+
+
 ### 🖥️ Systèmes & Environnements
 <div align="center">
   <a href="https://archlinux.org/" target="_blank"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/></a>
@@ -31,6 +34,20 @@
   <a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/></a>
   <a href="https://www.microsoft.com/windows/server" target="_blank"><img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server"/></a>
 </div>
+
+
+
+
+### 💻 Langages & Scripting
+<div align="center">
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/></a>
+  <a href="https://docs.microsoft.com/powershell/" target="_blank"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/></a>
+</div>
+
+
+
 
 ### 🔍 Outils Offensifs
 <div align="center">
@@ -40,13 +57,8 @@
   <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/></a>
 </div>
 
-### 💻 Langages & Scripting
-<div align="center">
-  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/></a>
-  <a href="https://docs.microsoft.com/powershell/" target="_blank"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/></a>
-</div>
+
+
 
 ### ☁️ Plateformes
 <div align="center">
