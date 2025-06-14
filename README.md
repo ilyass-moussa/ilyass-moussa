@@ -6,7 +6,7 @@
 
 <div align="center">
   <h1>🎓 Étudiant en Cybersécurité | Passionné par l'Offensif & la Red Team</h1>
-  <p><em>Parle peu. Frappe fort. Touche juste — au clavier, évidemment hhh.</em></p>
+  <p><em>Parle peu. Frappe fort. Touche juste — au clavier, évidemment 😏.</em></p>
 </div>
 
 ---
