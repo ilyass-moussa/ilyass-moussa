@@ -18,18 +18,8 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="150">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" width="64" alt="Arch Linux"/>
-      </td>
-      <td>
-        <img src="Capture d'écran 2025-06-14 024256.png" alt="Compétences" style="width: 100%; max-width: 600px;"/>
-      </td>
-      <td align="center" width="150">
-        <img src="https://www.kali.org/images/kali-logo.svg" width="100" alt="Kali Linux"/>
-      </td>
-    </tr>
-  </table>
-</div>
+      <td align="center" width="300">
+        <img src="R8SE.gif" width="300"  
 
 
 ## 🔧 Compétences & Environnements
