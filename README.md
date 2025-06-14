@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Vidéo sans titre ‐ Réalisée avec Clipchamp.gif" width="600" />
+  <img src="Vidéo sans titre ‐ Réalisée avec Clipchamp.gif" width="600" height="300" />
 </p>
 
 <h1 align="center">Salut 👋, je suis Ilyass Moussa</h1>
