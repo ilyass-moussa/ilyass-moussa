@@ -60,7 +60,7 @@
       <img alt="GitHub Packages" src="https://img.shields.io/badge/-GitHub_Packages-24292E?logo=github&logoColor=white" />
     </td>
     <td>
-      <img src="./" width="200" />
+      <img src="./assets/R8SE.gif" width="200" />
     </td>
   </tr>
 </table>
