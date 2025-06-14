@@ -46,27 +46,122 @@
 
 ---
 
-<div align="center" style="background:#000000;border:3px solid #00FF00;padding:20px;border-radius:5px;font-family:'Courier New'">
+## 🚀 Projets Académiques
 
-```diff
-  _____                 _     
- |  __ \               | |    
- | |__) |_ _ _ __   ___| |__  
- |  ___/ _` | '_ \ / __| '_ \ 
- | |  | (_| | | | | (__| | | |
- |_|   \__,_|_| |_|\___|_| |_|
+███╗   ██╗ ██████╗ ████████╗ █████╗ ██████╗ 
+████╗  ██║██╔═══██╗╚══██╔══╝██╔══██╗██╔══██╗
+██╔██╗ ██║██║   ██║   ██║   ███████║██████╔╝
+██║╚██╗██║██║   ██║   ██║   ██╔══██║██╔══██╗
+██║ ╚████║╚██████╔╝   ██║   ██║  ██║██████╔╝
+╚═╝  ╚═══╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚═════╝ 
+---
 
-
-</div> ```
-
-while not expert:
-    practice()
-    learn_from_mistakes()
-    ask_questions()
+## 🧨 STRUCTURE DE PROFONDEUR — HACKER MODE ACTIVATED
 
 
-💬 Ma Philosophie
-"Je suis fier d'être débutant - chaque expert a commencé par là.
-Mes projets sont simples mais j'y mets toute ma passion."
+┌───────────────────────┐
+│ 🛠️ PROJETS │
+└───────────────────────┘
 
 
+### 🔍 PortScanner-Python
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ TOOL: PORT SCANNER - PYTHON EDITION █
+█ TARGET: TCP/UDP PORTS █
+█ STATUS: THREADÉ | EFFICACE | BRUTAL █
+█ GITHUB: bit.ly/portscanner-python █
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+
+🛠️ Technologies :
+
+[ Python ] [ Socket ] [ Threading ]
+
+🔗 [Voir le projet](https://github.com/ilyass-moussa/PortScanner-Python) 
+
+---
+
+### 📡 Scapy Packet Analyzer
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ TOOL: PACKET ANALYZER - SCAPY █
+█ TARGET: TCP/UDP/DNS █
+█ STATUS: TEMPS RÉEL | VISUEL | NET █
+█ GITHUB: bit.ly/scapy-packet-analyzer █
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+
+🛠️ Technologies :
+
+[ Python ] [ Scapy ]
+
+🔗 [Voir le projet](https://github.com/ilyass-moussa/Scapy-Packet-Analyzer) 
+
+---
+
+### 🛡️ Nmap-AutoScan
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ TOOL: NMAP AUTOSCAN - BASH █
+█ TARGET: FULL SCAN / VULN SCAN █
+█ STATUS: RAPIDE | PRÉCIS | SANS PITIÉ █
+█ GITHUB: bit.ly/nmap-autoscan █
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+
+🛠️ Technologies :
+
+
+[ Bash ] [ Nmap ]
+
+
+🔗 [Voir le projet](https://github.com/ilyass-moussa/Nmap-AutoScan) 
+
+---
+
+## 💀 ÉTAT D'ESPRIT OFFENSIF
+
+> “Si tu penses être en sécurité, c’est que tu ne comprends rien au hacking.”  
+> — Moi, probablement trop confiant, mais jamais arrogant.
+
+Mon mindset ?  
+Je ne teste pas les systèmes... je les défie.  
+Et si personne ne trouve de faille, je la cherche encore. Et encore.  
+Parce que **rien n’est inviolable**.
+
+---
+
+## 🧠 COMPÉTENCES STRATÉGIQUES
+
+[ Tests d'intrusion ] [ Évasion de pare-feu ]
+[ Red Teaming ] [ Recherche vulnérabilités ]
+[ OSINT intensif ] [ Scripting avancé ]
+
+
+
+---
+
+## 🔥 CENTRES D'INTÉRÊT EXPLOSIFS
+
+⚡ Hacking réseau
+⚡ Web App Pentesting
+⚡ Bypass techniques
+⚡ Reverse Engineering light
+⚡ Red Teaming
+
+
+---
+
+## 🌐 CONTACT & LIENS
+
+📧 [ilyass.moussa.pro@gmail.com](mailto:ilyass.moussa.pro@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/ilyass-moussa)   
+💻 [GitHub Profile](https://github.com/ilyass-moussa) 
+
+---
+
+<div align="center">
+  <h1>🚨 HACK TO LEARN. CRASH TO UNDERSTAND. CODE TO DESTROY. 🚨</h1>
+  <img src="https://media.tenor.com/4uD5JbGzVdEAAAAC/hacker.gif"  width="200" />
+</div>
