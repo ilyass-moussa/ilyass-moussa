@@ -10,7 +10,11 @@
 
 ---
 
-[![Bannière](https://user-images.githubusercontent.com/79813703/224882534-09d61d4f-f019-45af-819c-918c8a1d3b83.gif)](https://github.com/ilyass-moussa) 
+<div align="center">
+  <a href="https://github.com/ilyass-moussa">
+    <img src="https://user-images.githubusercontent.com/79813703/224882534-09d61d4f-f019-45af-819c-918c8a1d3b83.gif" alt="Bannière GitHub" width="100%"/>
+  </a>
+</div>
 
 ---
 
