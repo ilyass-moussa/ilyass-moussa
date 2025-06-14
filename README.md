@@ -56,59 +56,7 @@
 
 ---
 
-## 🚀 Projets Académiques
 
-
-### 🔎 PortScanner-Python  
-Scanner de ports simple écrit en Python avec gestion des threads et détection du service en écoute.  
-**Technologies :**  
-![Python](https://img.shields.io/badge/Python-3776AB)     
-![socket](https://img.shields.io/badge/socket-5C94FB)     
-![threading](https://img.shields.io/badge/threading-4B8F75)  
-
-🔗 [Voir le projet](https://github.com/ilyass-moussa/PortScanner-Python)
-
----
-
-### 📡 Scapy Packet Analyzer  
-Outil d’analyse réseau permettant de capturer et afficher des paquets TCP/UDP/DNS en temps réel.  
-**Technologies :**  
-![Python](https://img.shields.io/badge/Python-3776AB)     
-![Scapy](https://img.shields.io/badge/Scapy-3A8FCD)  
-
-🔗 [Voir le projet](https://github.com/ilyass-moussa/Scapy-Packet-Analyzer)
-
----
-
-### 🛡️ Nmap-AutoScan  
-Script en Bash automatisant les scans Nmap classiques (rapide, complet, vulnérabilités).  
-**Technologies :**  
-![Bash](https://img.shields.io/badge/Bash-4EAA25)     
-![Nmap](https://img.shields.io/badge/Nmap-4F5D95)  
-
-🔗 [Voir le projet](https://github.com/ilyass-moussa/Nmap-AutoScan)
-
-
-
----
-## 🧠 Mon État d'Esprit Offensif
-
-> “Dans le cyberespace, ta première faiblesse n’est pas ton mot de passe, mais ta confiance aveugle. 
-Et celui qui pense n’avoir rien à cacher n’a pas encore compris ce qu’on peut lui voler.
-
-
----
-
-
-
-## 🔥 Centres d'intérêt  
-- Tests d’intrusion réseaux et applications web  
-- Techniques d’évasion et contournement  
-- Tactiques et stratégies Red Team  
-- Recherche et analyse de vulnérabilités
-
-
----
 
 <div align="center">
 
