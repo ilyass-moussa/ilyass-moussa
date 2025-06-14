@@ -10,9 +10,11 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/ilyass-moussa/ilyass-moussa/blob/main/terminal.gif?raw=true" width="500" alt="Terminal"/>
-</p>
+<div align="center">
+  <a href="https://github.com/ilyass-moussa">
+    <img src="https://github.com/ilyass-moussa/ilyass-moussa/blob/main/terminal.gif?raw=true" alt="Terminal hacker animé" width="600"/>
+  </a>
+</div>
 
 ---
 
