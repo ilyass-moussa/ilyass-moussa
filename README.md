@@ -40,7 +40,7 @@
 ### ☁️ Plateformes
 <div align="center">
   <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=00FF00" alt="GitHub"/></a>
-  <a href="https://github.com/features/packages" target="_blank"><img src="https://img.shields.io/badge/GitHub_Packages-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=00FF88" alt="GitHub Packages"/></a>
+  <a href="https://github.com/features/packages" target="_blank"><img src="https://img.shields.io/badge/GitHub_Packages-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=FFD700" alt="GitHub Packages"/></a>
 </div>
 
 ---
