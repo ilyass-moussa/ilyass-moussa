@@ -2,7 +2,9 @@
   <img src="Vidéo sans titre ‐ Réalisée avec Clipchamp.gif" width="800" height="200" />
 </p>
 
-<p><em>Parle peu. Frappe fort. Touche juste — au clavier, évidemment 😏.</em></p>
+<p style="font-size: 20px; font-weight: bold; text-align: center;">
+  <em>Parle peu. Frappe fort. Touche juste — au clavier, évidemment 😏.</em>
+</p>
 
 
 <p align="center">
