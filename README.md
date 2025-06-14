@@ -9,9 +9,12 @@
 </div>
 
 ---
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=20&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=%22Parle+peu.+Frappe+fort.+Touche+juste%22;%22%E2%80%94+Au+clavier%2C+%C3%A9videmment+%F0%9F%98%8F%22" alt="Quote">
-</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Hack&size=35&duration=2000&pause=3000&color=FF0000&background=000000&center=true&vCenter=true&width=1050&lines=🎓+CYBERSÉCURITÉ+%7C+ÉTUDIANT+ORIENTÉ+OFFENSIF+%26+RED+TEAM" alt="Titre principal" />
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=28&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=800&lines=%22Parle+peu.+Frappe+fort.+Touche+juste%22;%22%E2%80%94+Au+clavier%2C+%C3%A9videmment+%F0%9F%98%8F%22" alt="Citation" />
+</div>
 
 ---
 
