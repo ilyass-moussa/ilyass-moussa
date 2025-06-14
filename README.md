@@ -5,8 +5,7 @@
 <h1 align="center">Salut 👋, je suis Ilyass Moussa</h1>
 
 <div align="center">
-  <h1>🎓 Cybersécurité | Étudiant orienté Offensif & Red Team</h1>
-  <p><em>Parle peu. Frappe fort. Touche juste — au clavier, évidemment 😏.</em></p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=28&duration=3000&color=FF0000&center=true&vCenter=true&width=800&lines=🎓+CYBERSÉCURITÉ+%7C+ÉTUDIANT+ORIENTÉ+OFFENSIF+%26+RED+TEAM" alt="Typing Title" />
 </div>
 
 ---
