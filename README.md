@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <h2 style="font-size: 20px; font-weight: 800;">
+  <h2 style="font-size: 20px; font-weight: 500;">
     Parle peu. Frappe fort. Touche juste — au clavier, évidemment 😏
   </h2>
 </div>
