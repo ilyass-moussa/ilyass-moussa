@@ -11,26 +11,16 @@
 ---
 
 <div align="center">
-  <div style="
-    background-color: #000000;
-    border: 2px solid #00FF00;
-    border-radius: 5px;
+  <pre style="
+    background: #000;
+    color: #0F0;
+    border: 2px solid #0F0;
     padding: 15px;
     display: inline-block;
-    margin: 10px 0;
-    font-family: 'Courier New', monospace;
-    position: relative;
+    font-size: 24px;
   ">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=30&duration=2000&pause=3000&color=00FF00&center=true&vCenter=true&width=1050&lines=🎓+CYBERSÉCURITÉ+%7C+ÉTUDIANT+ORIENTÉ+OFFENSIF+%26+RED+TEAM" alt="Cybersécurité Red Team" />
-    <span style="
-      position: absolute;
-      right: 15px;
-      bottom: 15px;
-      height: 30px;
-      width: 15px;
-      background: #00FF00;
-    ">█</span> <!-- Curseur fixe (simulé) -->
-  </div>
+🎓 CYBERSÉCURITÉ | ÉTUDIANT ORIENTÉ OFFENSIF & RED TEAM<span style="color: #0F0">█</span>
+  </pre>
 </div>
 
 ---
