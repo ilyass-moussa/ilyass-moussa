@@ -15,11 +15,6 @@
 ---
 
 
-<div align="center">
-  <h1>
-    <img src="https://img.shields.io/badge/-🎓_CYBERSÉCURITÉ_|_ÉTUDIANT_ORIENTÉ_OFFENSIF_&_RED_TEAM-FF0000?style=for-the-badge&logo=icloud&logoColor=white" alt="Cybersécurité Red Team" />
-  </h1>
-</div>
 
 ---
 
