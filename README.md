@@ -1,20 +1,27 @@
 <p align="center">
-  <img src="Vidéo sans titre ‐ Réalisée avec Clipchamp.gif" width="800" height="200" />
+  <!-- Votre bannière animée personnelle -->
+  <img src="Vidéo sans titre ‐ Réalisée avec Clipchamp.gif" width="800" height="200" alt="Bannière personnelle Ilyass Moussa"/>
 </p>
 
 <h1 align="center">Salut 👋, je suis Ilyass Moussa</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=30&duration=2000&pause=3000&color=FF0000&center=true&vCenter=true&width=1050&lines=🎓+CYBERSÉCURITÉ+%7C+ÉTUDIANT+ORIENTÉ+OFFENSIF+%26+RED+TEAM" alt="Cybersécurité Red Team" />
+  <!-- Titre animé avec timing personnalisé -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=30&duration=2000&pause=3000&color=FF0000&center=true&vCenter=true&width=1050&lines=🎓+CYBERSÉCURITÉ+%7C+ÉTUDIANT+ORIENTÉ+OFFENSIF+%26+RED+TEAM" alt="Spécialisation Cybersécurité"/>
 </div>
 
 ---
 
+<!-- Bannière alternative cliquable (optionnelle) -->
 <div align="center">
   <a href="https://github.com/ilyass-moussa">
     <img src="https://user-images.githubusercontent.com/79813703/224882534-09d61d4f-f019-45af-819c-918c8a1d3b83.gif" alt="Bannière GitHub" width="100%"/>
   </a>
 </div>
+
+---
+
+<!-- Vos sections suivantes ici -->
 
 ---
 
