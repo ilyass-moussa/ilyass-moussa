@@ -4,15 +4,29 @@
 
 <h1 align="center">Salut 👋, je suis Ilyass Moussa</h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=30&duration=2000&pause=3000&color=FF0000&center=true&vCenter=true&width=1050&lines=🎓+CYBERSÉCURITÉ+%7C+ÉTUDIANT+ORIENTÉ+OFFENSIF+%26+RED+TEAM" alt="Cybersécurité Red Team" />
-</div>
+
 
 ---
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Consolas&size=30&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=1050&lines=🎓+CYBERSÉCURITÉ+%7C+ÉTUDIANT+ORIENTÉ+OFFENSIF+%26+RED+TEAM" alt="Cybersécurité Red Team" />
 </p>
+
+
+---
+
+<h1 align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Consolas&size=30&duration=3000&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=500&lines=Salut+👋;Je+suis+Ilyass+Moussa" alt="Présentation" />
+</h1>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Consolas&size=25&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=1050&lines=🎓+CYBERSÉCURITÉ+%7C+ÉTUDIANT+ORIENTÉ+OFFENSIF+%26+RED+TEAM" alt="Cybersécurité Red Team" />
+</p>
+
+
+
 
 ---
 
