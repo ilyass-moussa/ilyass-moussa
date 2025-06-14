@@ -11,17 +11,10 @@
 
 ---
 
-.profile-banner {
-  background: #000000;
-  padding: 20px;
-  border: 1px solid #00FF00;
-  border-radius: 5px;
-}
-
-.hacker-glow {
-  color: #00FF00;
-  font-family: 'Courier New', monospace;
-}
+<div style="background:#000;border:1px solid #0f0;padding:20px;border-radius:5px;font-family:monospace" align="center">
+  <h1 style="color:#0f0;text-shadow:0 0 5px #0f0">Salut 👋, je suis Ilyass Moussa</h1>
+  <p style="color:#0f0">🔥 Expert en sécurité offensive | Red Team</p>
+</div>
 
 ---
 
