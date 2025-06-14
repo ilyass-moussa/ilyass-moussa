@@ -2,10 +2,9 @@
   <img src="Vidéo sans titre ‐ Réalisée avec Clipchamp.gif" width="800" height="200" />
 </p>
 
-<p style="font-size: 20px; font-weight: bold; text-align: center;">
-  <em>Parle peu. Frappe fort. Touche juste — au clavier, évidemment 😏.</em>
-</p>
 
+<div align="center">
+  <h1>Parle peu. Frappe fort. Touche juste — au clavier, évidemment 😏</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Consolas&size=30&duration=2500&pause=1500&color=FF0000&background=000000&center=true&vCenter=true&width=1050&height=150&lines=Salut+👋,+je+suis+Ilyass+Moussa;🎓+CYBERSÉCURITÉ+%7C+ÉTUDIANT+ORIENTÉ+OFFENSIF+%26+RED+TEAM" alt="Présentation complète" />
@@ -114,6 +113,5 @@ Et celui qui pense n’avoir rien à cacher n’a pas encore compris ce qu’on 
 
 ---
 
-<div align="center">
-  <h1>🚨 HACK TO LEARN. CRASH TO UNDERSTAND. CODE TO DESTROY. 🚨</h1>
+
 
