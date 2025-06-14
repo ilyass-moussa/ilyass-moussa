@@ -144,7 +144,7 @@ Script en Bash automatisant les scans Nmap classiques (rapide, complet, vulnéra
 
 
 █▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█  
-█░░▒▓▒ 🧠 L'Esprit Offensif ▒▓▒░░█  
+█░░▒▓▒  L'Esprit Offensif ▒▓▒░░█  
 █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
 
 
@@ -153,7 +153,7 @@ Script en Bash automatisant les scans Nmap classiques (rapide, complet, vulnéra
 ! n'a pas encore compris ce qu'on peut lui voler."
 
 █▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█  
-█░░▒▓▒ 🔥 Centres d'intérêt   ▒▓▒░░█  
+█░░▒▓▒  Centres d'intérêt   ▒▓▒░░█  
 █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█  
 
 Pentesting réseaux & web
