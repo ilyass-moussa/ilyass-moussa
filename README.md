@@ -5,7 +5,7 @@
 <h1 align="center">Salut 👋, je suis Ilyass Moussa</h1>
 
 <div align="center">
-  <h1>🎓 Étudiant en Cybersécurité | Passionné par l'Offensif & la Red Team</h1>
+  <h1>🎓 Cybersécurité | Étudiant orienté Offensif & Red Team</h1>
   <p><em>Parle peu. Frappe fort. Touche juste — au clavier, évidemment 😏.</em></p>
 </div>
 
