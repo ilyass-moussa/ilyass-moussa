@@ -2,6 +2,7 @@
   <img src="Vidéo sans titre ‐ Réalisée avec Clipchamp.gif" width="800" height="200" />
 </p>
 
+<p><em>Parle peu. Frappe fort. Touche juste — au clavier, évidemment 😏.</em></p>
 
 
 <p align="center">
@@ -84,6 +85,24 @@ Script en Bash automatisant les scans Nmap classiques (rapide, complet, vulnéra
 
 
 ---
+## 🧠 Mon État d'Esprit Offensif
+
+> “Dans le cyberespace, ta première faiblesse n’est pas ton mot de passe, mais ta confiance aveugle. 
+Et celui qui pense n’avoir rien à cacher n’a pas encore compris ce qu’on peut lui voler.
+
+
+---
+
+
+
+## 🔥 Centres d'intérêt  
+- Tests d’intrusion réseaux et applications web  
+- Techniques d’évasion et contournement  
+- Tactiques et stratégies Red Team  
+- Recherche et analyse de vulnérabilités
+
+
+
 
 ## 🌐 CONTACT & LIENS
 
@@ -95,5 +114,4 @@ Script en Bash automatisant les scans Nmap classiques (rapide, complet, vulnéra
 
 <div align="center">
   <h1>🚨 HACK TO LEARN. CRASH TO UNDERSTAND. CODE TO DESTROY. 🚨</h1>
-  <img src="https://media.tenor.com/4uD5JbGzVdEAAAAC/hacker.gif"  width="200" />
-</div>
+
