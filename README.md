@@ -9,9 +9,9 @@
 </div>
 
 ---
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=24&duration=4000&color=00FF00&center=true&vCenter=true&width=600&lines=Red+Team+Operator+%7C+Penetration+Tester;Security+Researcher+%7C+CTF+Player;Python+Developer+%7C+Script+Kiddie+%F0%9F%98%88" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="Vidéo sans titre ‐ Réalisée avec Clipchamp.gif" width="800" height="200" alt="Cyber Security Banner"/>
+</p>
 ---
 
 ## 🛠️ Arsenal Technique
