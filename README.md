@@ -48,107 +48,39 @@
 
 ## 🚀 Projets Académiques
 
-███╗   ██╗ ██████╗ ████████╗ █████╗ ██████╗ 
-████╗  ██║██╔═══██╗╚══██╔══╝██╔══██╗██╔══██╗
-██╔██╗ ██║██║   ██║   ██║   ███████║██████╔╝
-██║╚██╗██║██║   ██║   ██║   ██╔══██║██╔══██╗
-██║ ╚████║╚██████╔╝   ██║   ██║  ██║██████╔╝
-╚═╝  ╚═══╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚═════╝ 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/your-image-link.png" alt="Hack the System Banner" width="600"/>
+</p>
 
-## 🧨 STRUCTURE DE PROFONDEUR — HACKER MODE ACTIVATED
+### 🔎 PortScanner-Python  
+Scanner de ports simple écrit en Python avec gestion des threads et détection du service en écoute.  
+**Technologies :**  
+![Python](https://img.shields.io/badge/Python-3776AB)     
+![socket](https://img.shields.io/badge/socket-5C94FB)     
+![threading](https://img.shields.io/badge/threading-4B8F75)  
 
-
-┌───────────────────────┐
-│ 🛠️ PROJETS │
-└───────────────────────┘
-
-
-### 🔍 PortScanner-Python
-
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-█ TOOL: PORT SCANNER - PYTHON EDITION █
-█ TARGET: TCP/UDP PORTS █
-█ STATUS: THREADÉ | EFFICACE | BRUTAL █
-█ GITHUB: bit.ly/portscanner-python █
-▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-
-
-🛠️ Technologies :
-
-[ Python ] [ Socket ] [ Threading ]
-
-🔗 [Voir le projet](https://github.com/ilyass-moussa/PortScanner-Python) 
+🔗 [Voir le projet](https://github.com/ilyass-moussa/PortScanner-Python)
 
 ---
 
-### 📡 Scapy Packet Analyzer
+### 📡 Scapy Packet Analyzer  
+Outil d’analyse réseau permettant de capturer et afficher des paquets TCP/UDP/DNS en temps réel.  
+**Technologies :**  
+![Python](https://img.shields.io/badge/Python-3776AB)     
+![Scapy](https://img.shields.io/badge/Scapy-3A8FCD)  
 
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-█ TOOL: PACKET ANALYZER - SCAPY █
-█ TARGET: TCP/UDP/DNS █
-█ STATUS: TEMPS RÉEL | VISUEL | NET █
-█ GITHUB: bit.ly/scapy-packet-analyzer █
-▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-
-
-🛠️ Technologies :
-
-[ Python ] [ Scapy ]
-
-🔗 [Voir le projet](https://github.com/ilyass-moussa/Scapy-Packet-Analyzer) 
+🔗 [Voir le projet](https://github.com/ilyass-moussa/Scapy-Packet-Analyzer)
 
 ---
 
-### 🛡️ Nmap-AutoScan
+### 🛡️ Nmap-AutoScan  
+Script en Bash automatisant les scans Nmap classiques (rapide, complet, vulnérabilités).  
+**Technologies :**  
+![Bash](https://img.shields.io/badge/Bash-4EAA25)     
+![Nmap](https://img.shields.io/badge/Nmap-4F5D95)  
 
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-█ TOOL: NMAP AUTOSCAN - BASH █
-█ TARGET: FULL SCAN / VULN SCAN █
-█ STATUS: RAPIDE | PRÉCIS | SANS PITIÉ █
-█ GITHUB: bit.ly/nmap-autoscan █
-▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+🔗 [Voir le projet](https://github.com/ilyass-moussa/Nmap-AutoScan)
 
-
-🛠️ Technologies :
-
-
-[ Bash ] [ Nmap ]
-
-
-🔗 [Voir le projet](https://github.com/ilyass-moussa/Nmap-AutoScan) 
-
----
-
-## 💀 ÉTAT D'ESPRIT OFFENSIF
-
-> “Si tu penses être en sécurité, c’est que tu ne comprends rien au hacking.”  
-> — Moi, probablement trop confiant, mais jamais arrogant.
-
-Mon mindset ?  
-Je ne teste pas les systèmes... je les défie.  
-Et si personne ne trouve de faille, je la cherche encore. Et encore.  
-Parce que **rien n’est inviolable**.
-
----
-
-## 🧠 COMPÉTENCES STRATÉGIQUES
-
-[ Tests d'intrusion ] [ Évasion de pare-feu ]
-[ Red Teaming ] [ Recherche vulnérabilités ]
-[ OSINT intensif ] [ Scripting avancé ]
-
-
-
----
-
-## 🔥 CENTRES D'INTÉRÊT EXPLOSIFS
-
-⚡ Hacking réseau
-⚡ Web App Pentesting
-⚡ Bypass techniques
-⚡ Reverse Engineering light
-⚡ Red Teaming
 
 
 ---
