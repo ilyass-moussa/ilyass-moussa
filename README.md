@@ -115,27 +115,33 @@ Et celui qui pense n’avoir rien à cacher n’a pas encore compris ce qu’on 
 █░░▒▓▒ PROJETS ▒▓▒░░█
 █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
 
-### PortScanner-Python  
-`>>> Advanced Port Scanner v3.1.4`  
-```python
-[✓] Thread-optimized | [✓] Service Fingerprinting | [✓] Raw Socket
 
-https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white https://img.shields.io/badge/Socket-5C94FB?logo=windows-terminal&logoColor=white https://img.shields.io/badge/Threading-4B8F75?logo=threads&logoColor=white
 
-Scapy Packet Analyzer
->>> LIVE PACKET SNIFFER [TCP/UDP/DNS]
+### 🔎 PortScanner-Python  
+Scanner de ports simple écrit en Python avec gestion des threads et détection du service en écoute.  
+**Technologies :**  
+![Python](https://img.shields.io/badge/Python-3776AB)     
+![socket](https://img.shields.io/badge/socket-5C94FB)     
+![threading](https://img.shields.io/badge/threading-4B8F75)  
 
-[✓] Real-time capture | [✓] Protocol analysis | [✓] Custom filters
+🔗 [Voir le projet](https://github.com/ilyass-moussa/PortScanner-Python)
 
-https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white
-https://img.shields.io/badge/Scapy-3A8FCD?logo=scapy&logoColor=white
+### 📡 Scapy Packet Analyzer  
+Outil d’analyse réseau permettant de capturer et afficher des paquets TCP/UDP/DNS en temps réel.  
+**Technologies :**  
+![Python](https://img.shields.io/badge/Python-3776AB)     
+![Scapy](https://img.shields.io/badge/Scapy-3A8FCD)  
 
-### Nmap-AutoScan
->>> AUTOMATED NMAP SUITE v2.0
-[✓] Quick scan | [✓] Full audit | [✓] Vuln detection
+🔗 [Voir le projet](https://github.com/ilyass-moussa/Scapy-Packet-Analyzer)
 
-https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white
-https://img.shields.io/badge/Nmap-4F5D95?logo=nmap&logoColor=white
+### 🛡️ Nmap-AutoScan  
+Script en Bash automatisant les scans Nmap classiques (rapide, complet, vulnérabilités).  
+**Technologies :**  
+![Bash](https://img.shields.io/badge/Bash-4EAA25)     
+![Nmap](https://img.shields.io/badge/Nmap-4F5D95)  
+
+🔗 [Voir le projet](https://github.com/ilyass-moussa/Nmap-AutoScan)
+
 
 █▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█  
 █░░▒▓▒ PHILOSOPHIE ▒▓▒░░█  
