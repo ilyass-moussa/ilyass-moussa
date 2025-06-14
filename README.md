@@ -110,53 +110,46 @@ Et celui qui pense n’avoir rien à cacher n’a pas encore compris ce qu’on 
 
 ---
 
-#  █▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
-#  █░░▒▓▒  PROJETS  ▒▓▒░░█
-#  █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
+<div align="center">
+█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
+█░░▒▓▒ PROJETS ▒▓▒░░█
+█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
 
-![Hacker Terminal](https://i.imgur.com/J3Q8X5a.gif)
-
-### <img src="https://i.imgur.com/L3Ox5cF.png" width="20"> **PortScanner-Python**  
+### PortScanner-Python  
 `>>> Advanced Port Scanner v3.1.4`  
 ```python
-[✓] Thread-optimized | [✓] Service Fingerprinting | [✓] Raw Socket 
-Stack Technique :
-https://img.shields.io/badge/Python-%25233776AB?logo=python&logoColor=white&style=for-the-badge https://img.shields.io/badge/Socket-%25235C94FB?logo=windows-terminal&logoColor=white&style=flat https://img.shields.io/badge/Threading-%25234B8F75?logo=threads&logoColor=white&style=flat
+[✓] Thread-optimized | [✓] Service Fingerprinting | [✓] Raw Socket
 
-⌨️ git clone https://github.com/ilyass-moussa/PortScanner-Python.git
+https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white https://img.shields.io/badge/Socket-5C94FB?logo=windows-terminal&logoColor=white https://img.shields.io/badge/Threading-4B8F75?logo=threads&logoColor=white
 
-<img src="https://i.imgur.com/L3Ox5cF.png" width="20"> Scapy Packet Analyzer
+Scapy Packet Analyzer
 >>> LIVE PACKET SNIFFER [TCP/UDP/DNS]
 
-python
 [✓] Real-time capture | [✓] Protocol analysis | [✓] Custom filters
-Stack Technique :
-https://img.shields.io/badge/Python-%25233776AB?logo=python&logoColor=white&style=for-the-badge https://img.shields.io/badge/Scapy-%25233A8FCD?logo=scapy&logoColor=white&style=flat
 
-⌨️ git clone https://github.com/ilyass-moussa/Scapy-Packet-Analyzer.git
+https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white
+https://img.shields.io/badge/Scapy-3A8FCD?logo=scapy&logoColor=white
 
-<img src="https://i.imgur.com/L3Ox5cF.png" width="20"> Nmap-AutoScan
+Nmap-AutoScan
 >>> AUTOMATED NMAP SUITE v2.0
-
-bash
 [✓] Quick scan | [✓] Full audit | [✓] Vuln detection
-Stack Technique :
-https://img.shields.io/badge/Bash-%25234EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge https://img.shields.io/badge/Nmap-%25234F5D95?logo=nmap&logoColor=white&style=flat
 
-⌨️ git clone https://github.com/ilyass-moussa/Nmap-AutoScan.git
+https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white
+https://img.shields.io/badge/Nmap-4F5D95?logo=nmap&logoColor=white
 
-█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
-█░░▒▓▒ PHILOSOPHIE ▒▓▒░░█
+█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█  
+█░░▒▓▒ PHILOSOPHIE ▒▓▒░░█  
 █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
-diff
-+ "Dans le cyberespace, ta première faiblesse n'est pas ton mot de passe, 
-- mais ta confiance aveugle. Celui qui pense n'avoir rien à cacher 
+
+
++ "Dans le cyberespace, ta première faiblesse n'est pas ton mot de passe,
+- mais ta confiance aveugle. Celui qui pense n'avoir rien à cacher
 ! n'a pas encore compris ce qu'on peut lui voler."
-https://i.imgur.com/3Y7Fg3R.gif
 
-█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
-█░░▒▓▒ ZONES D'INTÉRÊT ▒▓▒░░█
-█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
+█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█  
+█░░▒▓▒ ZONES D'INTÉRÊT ▒▓▒░░█  
+█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█  
+
 Pentesting réseaux & web
 
 Techniques d'évasion avancées
@@ -165,5 +158,5 @@ Red Team Operations
 
 Reverse Engineering
 
-https://i.imgur.com/KzQZQ9Z.gif
+</div> ```
 
