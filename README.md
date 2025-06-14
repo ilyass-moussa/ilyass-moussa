@@ -46,55 +46,42 @@
 
 ---
 
-## 🚀 Projets Académiques 
+<div align="center">
 
-### 🔎 PortScanner-Python  
-Scanner de ports simple écrit en Python avec gestion des threads et détection du service en écoute.  
-**Technologies :**  
-![Python](https://img.shields.io/badge/Python-3776AB)   
-![socket](https://img.shields.io/badge/socket-5C94FB)   
-![threading](https://img.shields.io/badge/threading-4B8F75) 
+```diff
++  ╔══════════════════════════════════════════════╗
++  ║                                              ║
++  ║   █▀▀ █░█ █▀▀ █▀▀ ▀█▀   █▀█ █▀▀ █▀▀ █▄░█     ║
++  ║   █▄▄ █▀█ ██▄ █▄▄ ░█░   █▀▄ ██▄ ██▄ █░▀█     ║
++  ║                                              ║
++  ╚══════════════════════════════════════════════╝
+🌀 Mes Expériences Numériques
+text
+▄▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▄
+█                   █
+█   🐍 Python       █
+█   🕸️ Web         █
+█   🔍 Networking   █
+█                   █
+▀▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▀
+🎯 Projets Labs
+Projet	Description	Badges
+PortScanner	Premier pas en réseau	https://img.shields.io/badge/Level-Beginner-green
+PacketSniffer	Découverte de Scapy	https://img.shields.io/badge/Status-Learning-yellow
+AutoNmap	Scripts bash automatisés	https://img.shields.io/badge/Shell-Fun-orange
+🌌 Mon Univers
+text
+  +-+-+-+-+-+-+-+-+
+  |H|a|c|k|T|h|e| |
+  +-+-+-+-+-+-+-+-+
+        |
+   +-+-+-+-+
+   |B|o|x|!|
+   +-+-+-+-+
+"Je ne crains pas les erreurs, je crains de ne rien apprendre d'elles.
+Chaque segfault est une leçon, chaque bug une opportunité."
 
-🔗 [Voir le projet](https://github.com/ilyass-moussa/PortScanner-Python)
+https://readme-typing-svg.herokuapp.com?font=Hack&size=14&duration=4000&pause=1000&color=00FF00&background=000000&width=600&lines=%F0%9F%9A%80+Prochain+objectif%253A+OSCP;%F0%9F%94%93+Actuellement+en+apprentissage+de+%253A;%F0%9F%92%BB+Pentest+Web+%257C+%25F0%259F%2593%258A+R%C3%A9seaux+%257C+%25F0%259F%2592%25BB+Syst%C3%A8mes
 
-
----
-
-### 📡 Scapy Packet Analyzer
-Outil d’analyse réseau permettant de capturer et afficher des paquets TCP/UDP/DNS en temps réel.  
-**Technologies :**  
-![Python](https://img.shields.io/badge/Python-3776AB)   
-![Scapy](https://img.shields.io/badge/Scapy-3A8FCD) 
-
-🔗 [Voir le projet](https://github.com/ilyass-moussa/Scapy-Packet-Analyzer)
-
-
----
-
-### 🛡️ Nmap-AutoScan
-Script en Bash automatisant les scans Nmap classiques (rapide, complet, vulnérabilités).  
-**Technologies :**  
-![Bash](https://img.shields.io/badge/Bash-4EAA25)   
-![Nmap](https://img.shields.io/badge/Nmap-4F5D95) 
-
-🔗 [Voir le projet](https://github.com/ilyass-moussa/Nmap-AutoScan)
-
----
-
-## 🧠 Mon État d'Esprit Offensif
-
-> “Dans le cyberespace, ta première faiblesse n’est pas ton mot de passe, mais ta confiance aveugle. 
-Et celui qui pense n’avoir rien à cacher n’a pas encore compris ce qu’on peut lui voler.
-
-
----
-
-
----
-
-## 🔥 Centres d'intérêt  
-- Tests d’intrusion réseaux et applications web  
-- Techniques d’évasion et contournement  
-- Tactiques et stratégies Red Team  
-- Recherche et analyse de vulnérabilités
-
+</div> ```
+Caractéristiques techniques :
