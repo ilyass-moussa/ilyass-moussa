@@ -5,16 +5,12 @@
 ---
 
 <div align="center">
-  <h1>Parle peu. Frappe fort. Touche juste — au clavier, évidemment 😏</h1>
-
----
-
-<div align="center">
   <h2 style="font-size: 26px; font-weight: 600;">
     Parle peu. Frappe fort. Touche juste — au clavier, évidemment 😏
   </h2>
 </div>
 
+---
 
 
 
