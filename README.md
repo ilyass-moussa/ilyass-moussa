@@ -46,42 +46,12 @@
 
 ---
 
-<div align="center">
+
+<div align="center" style="background:#000;border:2px solid #00FF00;border-radius:10px;padding:20px;font-family:'Courier New',monospace">
 
 ```diff
 +  ╔══════════════════════════════════════════════╗
-+  ║                                              ║
-+  ║   █▀▀ █░█ █▀▀ █▀▀ ▀█▀   █▀█ █▀▀ █▀▀ █▄░█     ║
-+  ║   █▄▄ █▀█ ██▄ █▄▄ ░█░   █▀▄ ██▄ ██▄ █░▀█     ║
-+  ║                                              ║
++  ║  █▀▀ █░█ █▀▀ █▀▀ ▀█▀   █▀█ █▀▀ █▀▀ █▄░█      ║
++  ║  █▄▄ █▀█ ██▄ █▄▄ ░█░   █▀▄ ██▄ ██▄ █░▀█      ║
 +  ╚══════════════════════════════════════════════╝
-🌀 Mes Expériences Numériques
-text
-▄▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▄
-█                   █
-█   🐍 Python       █
-█   🕸️ Web         █
-█   🔍 Networking   █
-█                   █
-▀▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▀
-🎯 Projets Labs
-Projet	Description	Badges
-PortScanner	Premier pas en réseau	https://img.shields.io/badge/Level-Beginner-green
-PacketSniffer	Découverte de Scapy	https://img.shields.io/badge/Status-Learning-yellow
-AutoNmap	Scripts bash automatisés	https://img.shields.io/badge/Shell-Fun-orange
-🌌 Mon Univers
-text
-  +-+-+-+-+-+-+-+-+
-  |H|a|c|k|T|h|e| |
-  +-+-+-+-+-+-+-+-+
-        |
-   +-+-+-+-+
-   |B|o|x|!|
-   +-+-+-+-+
-"Je ne crains pas les erreurs, je crains de ne rien apprendre d'elles.
-Chaque segfault est une leçon, chaque bug une opportunité."
-
-https://readme-typing-svg.herokuapp.com?font=Hack&size=14&duration=4000&pause=1000&color=00FF00&background=000000&width=600&lines=%F0%9F%9A%80+Prochain+objectif%253A+OSCP;%F0%9F%94%93+Actuellement+en+apprentissage+de+%253A;%F0%9F%92%BB+Pentest+Web+%257C+%25F0%259F%2593%258A+R%C3%A9seaux+%257C+%25F0%259F%2592%25BB+Syst%C3%A8mes
-
-</div> ```
-Caractéristiques techniques :
+<pre style="color:#00FF00"> ▄▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▄ █ 🐍 Python █ █ 🕸️ Web █ █ 🔍 Networking █ ▀▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▀ </pre><table style="width:100%;color:#00FF00;border:1px dashed #00FF00"> <tr> <th>Projet</th> <th>Description</th> <th>Badges</th> </tr> <tr> <td><code>PortScanner</code></td> <td>Premier pas en réseau</td> <td><img src="https://img.shields.io/badge/Level-Beginner-green"></td> </tr> <tr> <td><code>PacketSniffer</code></td> <td>Découverte de Scapy</td> <td><img src="https://img.shields.io/badge/Status-Learning-yellow"></td> </tr> <tr> <td><code>AutoNmap</code></td> <td>Scripts bash automatisés</td> <td><img src="https://img.shields.io/badge/Shell-Fun-orange"></td> </tr> </table><pre style="color:#00FF00"> +-+-+-+-+-+-+-+-+ |H|a|c|k|T|h|e| | +-+-+-+-+-+-+-+-+ | +-+-+-+-+ |B|o|x|!| +-+-+-+-+ </pre><blockquote style="color:#00FF00;border-left:3px solid #00FF00;padding-left:10px"> "Je ne crains pas les erreurs, je crains de ne rien apprendre.<br> Chaque <code>segfault</code> est une leçon, chaque <code>bug</code> une opportunité." </blockquote><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=00FF00&background=00000000&width=600&lines=🚀+Prochain+objectif:+OSCP;🔓+En+apprentissage:+Pentest+Web+|+Réseaux+|+Systèmes"></div> ```
