@@ -15,8 +15,12 @@
 
 ---
 
+<table>
+  <tr>
+    <td>
 
 ## 🔧 Compétences & Environnements
+
 
 <a href="https://www.archlinux.org/"><img alt="Arch Linux" title="Arch Linux" src="https://github.com/cheesits456/cheesits456/raw/master/icons/arch.png" height="42"></a>
 ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?logo=arch-linux&logoColor=white)
@@ -49,6 +53,12 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![GitHub Packages](https://img.shields.io/badge/-GitHub_Packages-24292E?logo=github&logoColor=white)
 
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="150" />
+    </td>
+  </tr>
+</table>
 
 
 ---
