@@ -58,9 +58,6 @@
 
 ## 🚀 Projets Académiques
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-image-link.png" alt="Hack the System Banner" width="600"/>
-</p>
 
 ### 🔎 PortScanner-Python  
 Scanner de ports simple écrit en Python avec gestion des threads et détection du service en écoute.  
