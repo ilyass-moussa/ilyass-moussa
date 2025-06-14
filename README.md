@@ -15,59 +15,48 @@
 
 ---
 
-<table>
-  <tr>
-    <td>
-      <strong>🔧 Compétences & Environnements</strong>
-      <br><br>
-      <a href="https://www.archlinux.org/">
-        <img alt="Arch Linux" title="Arch Linux" src="https://github.com/cheesits456/cheesits456/raw/master/icons/arch.png" height="42" />
-      </a>
-      <img alt="Arch Linux" src="https://img.shields.io/badge/-Arch_Linux-1793D1?logo=arch-linux&logoColor=white" />
-      <br>
-      <a href="https://www.kali.org/">
-        <img alt="Kali Linux" title="Kali Linux" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="42" />
-      </a>
-      <img alt="Kali Linux" src="https://img.shields.io/badge/-Kali_Linux-557C94?logo=kali-linux&logoColor=white" />
-      <br>
-      <a href="https://ubuntu.com/">
-        <img alt="Ubuntu" title="Ubuntu" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" height="42" />
-      </a>
-      <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white" />
-      <br><br>
-      <img alt="Wireshark" src="https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white" />
-      <img alt="Metasploit" src="https://img.shields.io/badge/-Metasploit-FF0000?logo=metasploit&logoColor=white" />
-      <img alt="Burp Suite" src="https://img.shields.io/badge/-Burp_Suite-F47C20?logo=burp-suite&logoColor=white" />
-      <img alt="Nmap" src="https://img.shields.io/badge/-Nmap-4F5D95?logo=nmap&logoColor=white" />
-      <br><br>
-      <a href="https://www.gnu.org/software/bash/">
-        <img alt="Bash" title="Bash" src="https://raw.githubusercontent.com/github/explore/master/topics/bash/bash.png" height="42" />
-      </a>
-      <img alt="Bash" src="https://img.shields.io/badge/-Bash-121011?logo=gnu-bash&logoColor=white" />
-      <br>
-      <a href="https://www.python.org/">
-        <img alt="Python" title="Python" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" height="42" />
-      </a>
-      <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
-      <br>
-      <a href="https://www.mysql.com/">
-        <img alt="SQL" title="SQL" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" height="42" />
-      </a>
-      <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white" />
-      <br><br>
-      <img alt="Windows Server" src="https://img.shields.io/badge/-Windows_Server-0078D6?logo=windows&logoColor=white" />
-      <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" />
-      <img alt="GitHub Packages" src="https://img.shields.io/badge/-GitHub_Packages-24292E?logo=github&logoColor=white" />
-    </td>
-    <td>
-      <img src="R8SE.gif" width="200" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" width="64" alt="Arch Linux"/>
+      </td>
+      <td>
+        <img src="Capture d'écran 2025-06-14 024256.png" alt="Compétences" style="width: 100%; max-width: 600px;"/>
+      </td>
+      <td align="center" width="150">
+        <img src="https://www.kali.org/images/kali-logo.svg" width="100" alt="Kali Linux"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
+## 🔧 Compétences & Environnements
+
+  ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+
+<a href="https://www.archlinux.org/"><img alt="Arch Linux" title="Arch Linux" src="https://github.com/cheesits456/cheesits456/raw/master/icons/arch.png" height="42"></a>
+![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?logo=arch-linux&logoColor=white)
+<a href="https://www.kali.org/"><img alt="Kali Linux" title="Kali Linux" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="42"></a>
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?logo=kali-linux&logoColor=white)
+<a href="https://ubuntu.com/"><img alt="Ubuntu" title="Ubuntu" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" height="42"></a>
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)
+<a href="https://www.gnu.org/software/bash/"><img alt="Bash" title="Bash" src="https://raw.githubusercontent.com/github/explore/master/topics/bash/bash.png" height="42"></a>
+![Bash](https://img.shields.io/badge/-Bash-121011?logo=gnu-bash&logoColor=white)
+<a href="https://www.python.org/"><img alt="Python" title="Python" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" height="42"></a>
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+<a href="https://www.mysql.com/"><img alt="SQL" title="SQL" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" height="42"></a>
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
+<a href="https://github.com/"><img alt="GitHub" title="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" height="42"></a>
+<a href="https://github.com/features/packages"><img alt="GitHub Packages" title="GitHub Packages" src="https://github.com/cheesits456/cheesits456/raw/master/icons/packages.png" height="42"></a>
 
 
+![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?logo=windows&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/-Metasploit-FF0000?logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp_Suite-F47C20?logo=burp-suite&logoColor=white)
+![Nmap](https://img.shields.io/badge/-Nmap-4F5D95?logo=nmap&logoColor=white)
 
 ---
 
