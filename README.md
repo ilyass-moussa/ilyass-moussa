@@ -150,7 +150,7 @@ Script en Bash automatisant les scans Nmap classiques (rapide, complet, vulnéra
 
 
 + "Dans le cyberespace, ta première faiblesse n'est pas ton mot de passe,
-- mais ta confiance aveugle. Celui qui pense n'avoir rien à cacher
++ mais ta confiance aveugle. Celui qui pense n'avoir rien à cacher
 ! n'a pas encore compris ce qu'on peut lui voler."
 
 █▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█  
