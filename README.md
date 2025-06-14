@@ -109,12 +109,7 @@ Et celui qui pense n’avoir rien à cacher n’a pas encore compris ce qu’on 
 
 
 
-
-## 🌐 CONTACT & LIENS
-
-📧 [ilyass.moussa.pro@gmail.com](mailto:ilyass.moussa.pro@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/ilyass-moussa)   
-💻 [GitHub Profile](https://github.com/ilyass-moussa) 
+ 
 
 ---
 
