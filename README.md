@@ -8,9 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=30&duration=2000&pause=3000&color=FF0000&center=true&vCenter=true&width=1050&lines=🎓+CYBERSÉCURITÉ+%7C+ÉTUDIANT+ORIENTÉ+OFFENSIF+%26+RED+TEAM" alt="Cybersécurité Red Team" />
 </div>
 
----
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhyN2V6YzFmOGV5dGJtY3BzZ2M2eWplMXB2Z2J6dHlqZ2NtY3B6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abKhK8ErT3k5D4c/giphy.gif" width="600"/>
 
 ---
 
