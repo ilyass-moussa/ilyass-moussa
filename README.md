@@ -11,26 +11,9 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=20&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=%22CYBERSÉCURITÉ.+ÉTUDIANT+ORIENTÉ+OFFENSIF+Touche+juste%22;%22%E2%80%94+Au+clavier%2C+%C3%A9videmment+%F0%9F%98%8F%22" alt="Quote">
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=20&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=%22CYBERSÉCURITÉ.+ÉTUDIANT+ORIENTÉ+OFFENSIF++%26+RED+TEAM%22;%22%E2%80%94+Au+clavier%2C+%C3%A9videmment+%F0%9F%98%8F%22" alt="Quote">
 </p>
 
----
-
-<div align="center">
-  <div style="
-    border: 2px solid #FF0000;
-    border-radius: 5px;
-    padding: 20px;
-    margin: 10px;
-    box-shadow: 0 0 15px #FF0000, 0 0 30px #FF0000;
-    background-color: #000000;
-    width: fit-content;
-  ">
-    <img src="https://readme-typing-svg.demolab.com?font=Hack&size=30&duration=2000&pause=3000&color=FF0000&background=000000&center=true&vCenter=true&width=800&lines=🎓+CYBERSÉCURITÉ+%7C+ÉTUDIANT+ORIENTÉ+OFFENSIF+%26+RED+TEAM" alt="Titre">
-    <br>
-    <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=22&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=800&lines=%22Parle+peu.+Frappe+fort.+Touche+juste%22;%22%E2%80%94+Au+clavier%2C+%C3%A9videmment+%F0%9F%98%8F%22" alt="Quote">
-  </div>
-</div>
 
 ---
 
