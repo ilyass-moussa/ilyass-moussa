@@ -13,16 +13,15 @@
 <div align="center">
   <div style="
     display: inline-block;
-    background: #000;
-    padding: 15px 25px;
-    border-radius: 4px;
-    border: 1px solid #333;
-    box-shadow: 0 0 8px rgba(0,255,0,0.2);
+    background: #121212;
+    padding: 15px 30px;
+    border: 2px solid #00FF00;
+    border-radius: 0;
+    font-family: 'Courier New', monospace;
   ">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=30&duration=2000&pause=3000&color=FF0000&center=true&vCenter=true&width=1050&lines=🎓+CYBERSÉCURITÉ+%7C+ÉTUDIANT+ORIENTÉ+OFFENSIF+%26+RED+TEAM" alt="Cybersécurité Red Team" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=30&duration=2000&pause=3000&color=FF0000&center=true&vCenter=true&width=1050&lines=🎓+CYBERSÉCURITÉ+%7C+ÉTUDIANT+ORIENTÉ+OFFENSIF+%26+RED+TEAM" />
   </div>
 </div>
-
 
 ---
 
