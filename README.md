@@ -95,7 +95,7 @@ Et celui qui pense n’avoir rien à cacher n’a pas encore compris ce qu’on 
 ---
 
 ## 🔥 Centres d'intérêt 
-- Tests d'intrusion réseaux/web  
+- Tests d’intrusion réseau/web  
 - Techniques d'évasion  
 - Tactiques Red Team  
 - Recherche de vulnérabilités  
