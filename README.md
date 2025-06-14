@@ -48,7 +48,6 @@
 
 
 
-
 ### 🔍 Outils Offensifs
 <div align="center">
   <a href="https://www.metasploit.com/" target="_blank"><img src="https://img.shields.io/badge/Metasploit-FF0000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/></a>
