@@ -11,18 +11,21 @@
 ---
 
 <div align="center">
-  <div style="
-    background-color: #000000;
-    border: 2px solid #00FF00;
-    border-radius: 5px;
-    padding: 15px;
-    display: inline-block;
-    margin: 10px 0;
-    box-shadow: 0 0 10px #00FF00;
-  ">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=30&duration=2000&pause=3000&color=00FF00&center=true&vCenter=true&width=1050&lines=🎓+CYBERSÉCURITÉ+%7C+ÉTUDIANT+ORIENTÉ+OFFENSIF+%26+RED+TEAM" alt="Cybersécurité Red Team" />
+  <div style="...">
+    <img src="..." />
+    <span style="
+      height: 30px;
+      width: 15px;
+      background: #00FF00;
+      display: inline-block;
+      animation: blink 1s step-end infinite;
+    "></span>
   </div>
 </div>
+
+<style>
+  @keyframes blink { 50% { opacity: 0; } }
+</style>
 
 ---
 
