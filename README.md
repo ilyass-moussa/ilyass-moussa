@@ -16,25 +16,12 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Consolas&size=24&duration=2500&pause=1500&color=FF0000&background=000000&center=true&vCenter=true&width=1050&height=150&lines=Salut+👋,+je+suis+Ilyass+Moussa;🎓+CYBERSÉCURITÉ+%7C+ÉTUDIANT+ORIENTÉ+OFFENSIF+%26+RED+TEAM" alt="Présentation complète" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Consolas&size=30&duration=2500&pause=1500&color=FF0000&background=000000&center=true&vCenter=true&width=1050&height=150&lines=Salut+👋,+je+suis+Ilyass+Moussa;🎓+CYBERSÉCURITÉ+%7C+ÉTUDIANT+ORIENTÉ+OFFENSIF+%26+RED+TEAM" alt="Présentation complète" />
 </p>
 
 
 ---
 
-<div align="center">
-  
-  ![Matrix](https://raw.githubusercontent.com/yourusername/yourusername/main/matrix.gif)
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=900&lines=Salut+👋,+Je+suis+Ilyass+Moussa;───────;💻+Expert+en+Cybersécurité+Offensive;🔴+Red+Team+%7C+Pentest+%7C+OSINT" alt="Présentation Matrix" />
-  
-</div>
-
-
-
-
-
----
 
 ## 🛠️ Arsenal Technique
 
