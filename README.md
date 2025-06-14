@@ -7,21 +7,21 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=30&duration=2000&pause=3000&color=FF0000&center=true&vCenter=true&width=1050&lines=🎓+CYBERSÉCURITÉ+%7C+ÉTUDIANT+ORIENTÉ+OFFENSIF+%26+RED+TEAM" alt="Cybersécurité Red Team" />
 </div>
-
 ---
 
 <div align="center">
-  <pre style="
-    background: #000;
-    color: #0F0;
-    border: 2px solid #0F0;
-    padding: 15px;
+  <div style="
     display: inline-block;
-    font-size: 24px;
+    background: #000;
+    padding: 15px 25px;
+    border-radius: 4px;
+    border: 1px solid #333;
+    box-shadow: 0 0 8px rgba(0,255,0,0.2);
   ">
-🎓 CYBERSÉCURITÉ | ÉTUDIANT ORIENTÉ OFFENSIF & RED TEAM<span style="color: #0F0">█</span>
-  </pre>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=30&duration=2000&pause=3000&color=FF0000&center=true&vCenter=true&width=1050&lines=🎓+CYBERSÉCURITÉ+%7C+ÉTUDIANT+ORIENTÉ+OFFENSIF+%26+RED+TEAM" alt="Cybersécurité Red Team" />
+  </div>
 </div>
+
 
 ---
 
