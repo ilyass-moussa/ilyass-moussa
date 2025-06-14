@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=20&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=%22CYBERSÉCURITÉ.+ÉTUDIANT+ORIENTÉ+OFFENSIF++%26+RED+TEAM%22;%22%E2%80%94+Au+clavier%2C+%C3%A9videmment+%F0%9F%98%8F%22" alt="Quote">
+  <img src="https://readme-typing-svg.demolab.com?font=Hack&size=24&duration=2500&pause=1500&color=00FF88&background=000000&center=true&vCenter=true&width=900&lines=🎓+ÉTUDIANT+EN+CYBERSÉCURITÉ+%7C+SPÉCIALISATION+OFFENSIVE+%26+RED+TEAM" alt="Titre cyber">
 </p>
 
 
