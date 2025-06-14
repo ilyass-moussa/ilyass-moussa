@@ -157,10 +157,10 @@ Script en Bash automatisant les scans Nmap classiques (rapide, complet, vulnéra
 █░░▒▓▒ 🔥 Centres d'intérêt   ▒▓▒░░█  
 █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█  
 
-- Pentesting réseaux & web
-- Techniques d'évasion avancées
-- Tactiques et stratégies Red Team  
-- Reverse Engineering
+Pentesting réseaux & web
+Techniques d'évasion avancées
+Tactiques et stratégies Red Team  
+Reverse Engineering
 
 </div> ```
 
