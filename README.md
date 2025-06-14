@@ -17,7 +17,9 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=24&duration=4000&color=00FF00&center=true&vCenter=true&width=600&lines=Red+Team+Operator+%7C+Penetration+Tester;Security+Researcher+%7C+CTF+Player;Python+Developer+%7C+Script+Kiddie+%F0%9F%98%88" alt="Typing SVG" />
+  <h1>
+    <img src="https://img.shields.io/badge/-🎓_CYBERSÉCURITÉ_|_ÉTUDIANT_ORIENTÉ_OFFENSIF_&_RED_TEAM-FF0000?style=for-the-badge&logo=icloud&logoColor=white" alt="Cybersécurité Red Team" />
+  </h1>
 </div>
 
 ---
