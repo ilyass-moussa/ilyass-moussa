@@ -9,26 +9,9 @@
 </div>
 
 ---
-
-<div align="center">
-  
-  <!-- Début du cadre noir -->
-  <div style="
-    background-color: #000000;
-    border: 2px solid #333333;
-    border-radius: 5px;
-    padding: 15px;
-    display: inline-block;
-    margin: 10px 0;
-  ">
-
-  <!-- Texte animé -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=30&duration=2000&pause=3000&color=FF0000&center=true&vCenter=true&width=1050&lines=🎓+CYBERSÉCURITÉ+%7C+ÉTUDIANT+ORIENTÉ+OFFENSIF+%26+RED+TEAM" alt="Cybersécurité Red Team" />
-
-  </div>
-  <!-- Fin du cadre noir -->
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=20&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=%22Parle+peu.+Frappe+fort.+Touche+juste%22;%22%E2%80%94+Au+clavier%2C+%C3%A9videmment+%F0%9F%98%8F%22" alt="Quote">
+</p>
 
 ---
 
