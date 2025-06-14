@@ -2,18 +2,7 @@
   <img src="Vidéo sans titre ‐ Réalisée avec Clipchamp.gif" width="800" height="200" />
 </p>
 
-<h1 align="center">Salut 👋, je suis Ilyass Moussa</h1>
 
-
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Consolas&size=30&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=1050&lines=🎓+CYBERSÉCURITÉ+%7C+ÉTUDIANT+ORIENTÉ+OFFENSIF+%26+RED+TEAM" alt="Cybersécurité Red Team" />
-</p>
-
-
----
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Consolas&size=30&duration=2500&pause=1500&color=FF0000&background=000000&center=true&vCenter=true&width=1050&height=150&lines=Salut+👋,+je+suis+Ilyass+Moussa;🎓+CYBERSÉCURITÉ+%7C+ÉTUDIANT+ORIENTÉ+OFFENSIF+%26+RED+TEAM" alt="Présentation complète" />
