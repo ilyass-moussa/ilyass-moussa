@@ -6,7 +6,7 @@
 <h1 align="center">Salut 👋, je suis Ilyass Moussa</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=30&duration=2000&pause=3000&color=FF0000&center=true&vCenter=true&width=1050&lines=🎓+CYBERSÉCURITÉ+%7C+ÉTUDIANT+ORIENTÉ+OFFENSIF+%26+RED+TEAM" alt="Spécialisation Cybersécurité"/>
+  <img src="R8SE.gif?font=Hack&size=30&duration=2000&pause=3000&color=FF0000&center=true&vCenter=true&width=1050&lines=🎓+CYBERSÉCURITÉ+%7C+ÉTUDIANT+ORIENTÉ+OFFENSIF+%26+RED+TEAM" alt="Spécialisation Cybersécurité"/>
 </div>
 
 ---
