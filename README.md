@@ -1,10 +1,20 @@
-# 🚀 Ilyass Moussa - Red Team Specialist & Offensive Security Researcher 🔥
-
 <p align="center">
-  <img src="Vidéo sans titre ‐ Réalisée avec Clipchamp.gif" width="800" height="200" alt="Cyber Security Banner"/>
+  <img src="Vidéo sans titre ‐ Réalisée avec Clipchamp.gif" width="800" height="200" />
 </p>
 
-<h1 align="center">👨‍💻 <span style="color: #FF0000;">HACK</span> | <span style="color: #00FF00;">BUILD</span> | <span style="color: #0000FF;">PROTECT</span></h1>
+<h1 align="center">Salut 👋, je suis Ilyass Moussa</h1>
+
+<div align="center">
+  <h1>🎓 Cybersécurité | Étudiant orienté Offensif & Red Team</h1>
+  <p><em>Parle peu. Frappe fort. Touche juste — au clavier, évidemment 😏.</em></p>
+</div>
+
+---
+
+[![Bannière](https://user-images.githubusercontent.com/79813703/224882534-09d61d4f-f019-45af-819c-918c8a1d3b83.gif)](https://github.com/ilyass-moussa) 
+
+---
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=24&duration=4000&color=00FF00&center=true&vCenter=true&width=600&lines=Red+Team+Operator+%7C+Penetration+Tester;Security+Researcher+%7C+CTF+Player;Python+Developer+%7C+Script+Kiddie+%F0%9F%98%88" alt="Typing SVG" />
