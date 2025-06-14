@@ -11,9 +11,9 @@
 
 ---
 
-<div style="background:#000;border:1px solid red;padding:20px;font-family:monospace" align="center">
-  <h1 style="color:#0f0">Salut 👋, je suis Ilyass Moussa</h1>
-  <p style="color:#0f0">🎓 CYBERSÉCURITÉ | SPÉCIALISTE RED TEAM OFFENSIF</p>
+<div class="profile-banner" align="center">
+  <h1 class="hacker-glow">Salut 👋, je suis Ilyass Moussa</h1>
+  <p class="hacker-glow">🔥 Expert en sécurité offensive</p>
 </div>
 
 ---
